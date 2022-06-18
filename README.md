@@ -16,7 +16,7 @@ Working in [Ofertorio](https://github.com/ofertorio) project.
   - 🐱‍💻 I'm highly interested in hacking and security stuff, kudos if it's related to games or big applications.
   - 🧋🥤 Highly addicted to bubble tea. If you want to cheer me up, give me a good boba!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theprometeus.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theprometeus.theprometeus.visitor-badge)
 
 Specialist in:
 
@@ -35,7 +35,7 @@ Specialist in:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theprometeus&theme=react&show_icons=true" />
   
-  <br/>
+  <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprometeus&theme=react" />
   
