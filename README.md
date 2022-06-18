@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=30&color=8A17B3&center=true&vCenter=true&lines=%3COl%C3%A1%2C+mundo!%2F%3E;%3CHello%2C+world!%2F%3E;%3CCiao%2C+mondo!%2F%3E" />
 </div>  
 
-### <div align="center">I'm Matheus Giovani, founder and developer 👨‍ @ [TechTail](https://github.com/techtail)💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm Matheus Giovani, founder and developer 👨‍ @ [TechTail](https://github.com/techtail) 💻 working remotely since 2016 🚀</div>  
 
 Working in [Ofertorio](https://github.com/ofertorio) project.
 
@@ -20,7 +20,9 @@ Working in [Ofertorio](https://github.com/ofertorio) project.
 
 Specialist in:
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -30,6 +32,16 @@ Specialist in:
 
 ---
 
-[![ThePrometeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprometeus)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprometeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gcprometeus&cover_image=true&theme=default&bar_color=9e09c8&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gcprometeus&redirect=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theprometeus&theme=react&show_icons=true" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprometeus&theme=react" />
+  
+  <br/><br/>
+  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=gcprometeus&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=gcprometeus&cover_image=true&theme=default&bar_color=9e09c8&bar_color_cover=true" />
+  </a>
+</div>
