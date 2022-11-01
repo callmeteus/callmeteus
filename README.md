@@ -2,9 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=30&color=8A17B3&center=true&vCenter=true&lines=%3COl%C3%A1%2C+mundo!%2F%3E;%3CHello%2C+world!%2F%3E;%3CCiao%2C+mondo!%2F%3E" />
 </div>  
 
-### <div align="center">I'm Matheus Giovani, founder and developer 👨‍ @ [TechTail](https://github.com/techtail) 💻 working remotely since 2016 🚀</div>  
-
-Working in [Ofertorio](https://github.com/ofertorio) project.
+### <div align="center">I'm Matheus Giovani, CTO 👨‍ @ [EDJ Digital](https://github.com/edjdigital) 💻 working remotely since 2016 🚀</div>  
 
 - 👨‍💻 Currently playing with JavaScript/TypeScript, PHP, Java, C# and a little bit of Assembly. 
 - 🔭 Working @ [TechTail](https://github.com/techtail) and @ AD3tech as dev ops, fullstack coder, security engineer and microsservices manager.
