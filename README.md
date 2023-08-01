@@ -4,10 +4,10 @@
 
 ### <div align="center">I'm Matheus Giovani, CTO 👨‍ @ [EDJ Digital](https://github.com/edjdigital) 💻 working remotely since 2016 🚀</div>  
 
-- 👨‍💻 Currently playing with JavaScript/TypeScript, PHP, Java, C# and a little bit of Assembly. 
-- 🔭 Working @ [TechTail](https://github.com/techtail) and @ AD3tech as dev ops, fullstack coder, security engineer and microsservices manager.
+- 👨‍💻 Currently playing with JavaScript/TypeScript, Python, Elixir, PHP, Java and C#.
+- 🔭 Also working @ [TechTail](https://github.com/techtail) as dev ops, fullstack coder, infosec specialyst and microsservices manager.
 - 💬 Feel free to ask me about PHP, Javascript / TypeScript, Node.js or Minecraft
-- 😄 Pronouns: I'm actually cis, but I'm fine with any pronouns!
+- 😄 Pronouns: I'm fine with any pronouns!
 
 - 🤔 Some cool and/or interesting facts:
   - ⛏💎 I've made a functional Node.js Minecraft server for version 1.16 in the past, but it never saw the sunlight rise.
