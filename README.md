@@ -14,8 +14,6 @@
   - 🐱‍💻 I'm highly interested in hacking and security stuff, kudos if it's related to games or big applications.
   - 🧋🥤 Highly addicted to bubble tea. If you want to cheer me up, give me a good boba!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theprometeus.theprometeus.visitor-badge)
-
 Specialist in:
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%237DD3FC.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
