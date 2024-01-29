@@ -32,8 +32,8 @@ Specialist in:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmeteus&theme=react&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeteus&theme=react&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core" />
+  <img src="https://gio-github-readme-stats.vercel.app/api?username=callmeteus&theme=react&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />  
+  <img src="https://gio-github-readme-stats.vercel.app/api/top-langs/?username=callmeteus&theme=react&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core" />
   
   <br/><br/>
   
